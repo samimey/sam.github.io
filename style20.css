@@ -1,0 +1,9 @@
+.navbar-nav a{
+    color: blue;
+} 
+.nav{
+    color: blue;
+}
+.navbar-dark{
+    --bs-navbar-color: rgba(22, 7, 228, 0.493);
+}
